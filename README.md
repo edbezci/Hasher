@@ -14,7 +14,6 @@ This is a quick project that might have several bugs. Please do not hesitate to 
 This tool does not claim to provide a robost encyrption to hash secret keys, but it can be useful to 
 visually compare widely used encryption algorithms.
 
-If you come across any bugs, please do not hesitate to contact me. 
 
 Also, please feel to fork and/or suggest improvements. 
 
